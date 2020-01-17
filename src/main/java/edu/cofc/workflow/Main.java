@@ -1,5 +1,7 @@
+import android.util.Log;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Log.d("tag", "This is a test file ");
     }
 }
